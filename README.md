@@ -2,22 +2,21 @@
 
 ## Objective
 
-The SOC Automation Project ...
+The SOC Automation Project explores how automation enhances incident response, accelerates threat detection, and streamlines SOC workflows.
 
 ### Skills Learned
 
-- Replace
-- Replace
-- Replace
-- Replace
-- Replace
+- Security Automation with Shuffle SOAR
+- Incident Response Planning
+- Case Management with TheHive
+- Scripting and Automation for Threat Management
 
 ### Tools Used
 
 
-- Replace
-- Replace
-- Replace
+- Virtual Box
+- Shuffle
+- TheHive
 
 ## Diagram
 
